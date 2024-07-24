@@ -1,0 +1,14 @@
+D:\buoi32\tongmangdequy\bin\Debug\net8.0\tongmangdequy.exe
+D:\buoi32\tongmangdequy\bin\Debug\net8.0\tongmangdequy.deps.json
+D:\buoi32\tongmangdequy\bin\Debug\net8.0\tongmangdequy.runtimeconfig.json
+D:\buoi32\tongmangdequy\bin\Debug\net8.0\tongmangdequy.dll
+D:\buoi32\tongmangdequy\bin\Debug\net8.0\tongmangdequy.pdb
+D:\buoi32\tongmangdequy\obj\Debug\net8.0\tongmangdequy.GeneratedMSBuildEditorConfig.editorconfig
+D:\buoi32\tongmangdequy\obj\Debug\net8.0\tongmangdequy.AssemblyInfoInputs.cache
+D:\buoi32\tongmangdequy\obj\Debug\net8.0\tongmangdequy.AssemblyInfo.cs
+D:\buoi32\tongmangdequy\obj\Debug\net8.0\tongmangdequy.csproj.CoreCompileInputs.cache
+D:\buoi32\tongmangdequy\obj\Debug\net8.0\tongmangdequy.dll
+D:\buoi32\tongmangdequy\obj\Debug\net8.0\refint\tongmangdequy.dll
+D:\buoi32\tongmangdequy\obj\Debug\net8.0\tongmangdequy.pdb
+D:\buoi32\tongmangdequy\obj\Debug\net8.0\tongmangdequy.genruntimeconfig.cache
+D:\buoi32\tongmangdequy\obj\Debug\net8.0\ref\tongmangdequy.dll

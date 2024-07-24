@@ -1,0 +1,14 @@
+D:\buoi32\quicksortdequy\bin\Debug\net8.0\quicksortdequy.exe
+D:\buoi32\quicksortdequy\bin\Debug\net8.0\quicksortdequy.deps.json
+D:\buoi32\quicksortdequy\bin\Debug\net8.0\quicksortdequy.runtimeconfig.json
+D:\buoi32\quicksortdequy\bin\Debug\net8.0\quicksortdequy.dll
+D:\buoi32\quicksortdequy\bin\Debug\net8.0\quicksortdequy.pdb
+D:\buoi32\quicksortdequy\obj\Debug\net8.0\quicksortdequy.GeneratedMSBuildEditorConfig.editorconfig
+D:\buoi32\quicksortdequy\obj\Debug\net8.0\quicksortdequy.AssemblyInfoInputs.cache
+D:\buoi32\quicksortdequy\obj\Debug\net8.0\quicksortdequy.AssemblyInfo.cs
+D:\buoi32\quicksortdequy\obj\Debug\net8.0\quicksortdequy.csproj.CoreCompileInputs.cache
+D:\buoi32\quicksortdequy\obj\Debug\net8.0\quicksortdequy.dll
+D:\buoi32\quicksortdequy\obj\Debug\net8.0\refint\quicksortdequy.dll
+D:\buoi32\quicksortdequy\obj\Debug\net8.0\quicksortdequy.pdb
+D:\buoi32\quicksortdequy\obj\Debug\net8.0\quicksortdequy.genruntimeconfig.cache
+D:\buoi32\quicksortdequy\obj\Debug\net8.0\ref\quicksortdequy.dll

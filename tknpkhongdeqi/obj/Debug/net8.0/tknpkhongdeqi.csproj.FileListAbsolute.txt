@@ -1,0 +1,14 @@
+D:\buoi32\tknpkhongdeqi\bin\Debug\net8.0\tknpkhongdeqi.exe
+D:\buoi32\tknpkhongdeqi\bin\Debug\net8.0\tknpkhongdeqi.deps.json
+D:\buoi32\tknpkhongdeqi\bin\Debug\net8.0\tknpkhongdeqi.runtimeconfig.json
+D:\buoi32\tknpkhongdeqi\bin\Debug\net8.0\tknpkhongdeqi.dll
+D:\buoi32\tknpkhongdeqi\bin\Debug\net8.0\tknpkhongdeqi.pdb
+D:\buoi32\tknpkhongdeqi\obj\Debug\net8.0\tknpkhongdeqi.GeneratedMSBuildEditorConfig.editorconfig
+D:\buoi32\tknpkhongdeqi\obj\Debug\net8.0\tknpkhongdeqi.AssemblyInfoInputs.cache
+D:\buoi32\tknpkhongdeqi\obj\Debug\net8.0\tknpkhongdeqi.AssemblyInfo.cs
+D:\buoi32\tknpkhongdeqi\obj\Debug\net8.0\tknpkhongdeqi.csproj.CoreCompileInputs.cache
+D:\buoi32\tknpkhongdeqi\obj\Debug\net8.0\tknpkhongdeqi.dll
+D:\buoi32\tknpkhongdeqi\obj\Debug\net8.0\refint\tknpkhongdeqi.dll
+D:\buoi32\tknpkhongdeqi\obj\Debug\net8.0\tknpkhongdeqi.pdb
+D:\buoi32\tknpkhongdeqi\obj\Debug\net8.0\tknpkhongdeqi.genruntimeconfig.cache
+D:\buoi32\tknpkhongdeqi\obj\Debug\net8.0\ref\tknpkhongdeqi.dll
